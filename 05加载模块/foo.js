@@ -1,0 +1,5 @@
+// console.log(foo)
+// console.log('foo')
+console.log(2)
+console.log('foo')
+console.log(3)
